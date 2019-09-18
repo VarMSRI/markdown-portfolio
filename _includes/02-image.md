@@ -1,1 +1,1 @@
-![nan musudi] (https://images.app.goo.gl/iDvToX2LbVnAjq6r5)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
